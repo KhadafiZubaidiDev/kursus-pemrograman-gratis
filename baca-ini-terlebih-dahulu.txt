@@ -1,0 +1,5 @@
+Sebelum mempraktekkan isi perintah/kode di dalam repositori ini, pastikan :
+1. Di dalam komputer / laptop Anda telah terinstall R dan R Studio
+2. Gunakan Console pada R Studio untuk melakukan eksekusi
+3. Gunakan browser Google Chrome dan instalasi Add On SelectorGadget
+4. Selamat Belajar
