@@ -1,3 +1,4 @@
+>  library(rvest)
 >  link = "https://www.imdb.com/search/title/?countries=id"
 >  page = read_html(link)
 >  titles = page %>% html_nodes(".lister-item-header") %>% html_text()
